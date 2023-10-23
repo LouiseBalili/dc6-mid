@@ -54,9 +54,9 @@ const totalAmount = computed(() => {
                             </div>
 
                             <div class="flex-1 ml-4 -mt-10">
-                                <h4 class="text-md font-semibold tracking-tight text-gray-700 dark:text-gray-50">Sales Transactions</h4>
+                                <h4 class="text-md font-semibold tracking-tight text-gray-700 dark:text-gray-50">Transactions</h4>
                                 <table class="table-fixed w-full mt-3">
-                                    <thead class="bg-gray-100 dark:bg-purple-600 dark:text-white">
+                                    <thead class="bg-blue-200 dark:bg-blue-600 dark:text-white">
                                         <th class="text-center px-4 py-2">Date</th>
                                         <th class="text-center px-4 py-2">Cash/Credit</th>
                                         <th class="text-center px-4 py-2">Amount</th>
